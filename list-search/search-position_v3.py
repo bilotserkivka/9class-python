@@ -1,5 +1,5 @@
 number_list = [11, 12, 14, 3, 7, 13, 14, 11, 8, 9]
-searched_element = 14
+searched_element = 7
 
 for i in range(len(number_list)):
     if number_list[i] == searched_element:
